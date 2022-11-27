@@ -161,24 +161,19 @@
 <div style="margin-top:10px" align="center">
   <div>
      <a  href="https://www.linkedin.com/in/swetank-srivastava-336b31217/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohak"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Swetank"/>
     </a>
-    <a href="https://codepen.io/mohak-srivastava" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="mohak"/>
-    </a>
-     <a href="https://twitter.com/SrivastavMohak" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="mohak"/>
-    </a>
+    
   </div>
   
 <h3 align="center">Reach me</h3>
 
 <p align="center">
   <a  href="https://t.me/stubborn1508" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="MOHAK"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Swetank"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohak"/>
+  <a href="mailto:swetankgkp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Swetank"/>
   </a>
 </p>
 
