@@ -12,13 +12,8 @@
 
 - 👯 I’m looking to collaborate on **ReactJS Framework**
 
-- 🤝 I’m looking for help with **Backend Design**
-
 - 👨‍💻 All of my projects are available [@stubborn-1508](https://github.com/stubborn-1508)
 
-- 💬 Ask me about **development and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
 
 
 ---
