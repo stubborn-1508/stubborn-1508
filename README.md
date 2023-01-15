@@ -189,6 +189,6 @@
 </p>
 
 ------
-Credit: [swetank-srivastava](https://github.com/stubborn-1508)
+[swetank-srivastava](https://github.com/stubborn-1508)
 
 Last Edited on: 03/01/2022
