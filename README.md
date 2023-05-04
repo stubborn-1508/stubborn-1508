@@ -183,6 +183,15 @@
 
 ----
 
+ ## <p align="center">My OpenSource Contribution Graph</p>
+[![Swetank's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stubborn-1508&theme=react-light)](https://github.com/stubborn-1508)
+ 
+  ## Languages I Use Often (in my repos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stubborn-1508&theme=github_light&show_icons=true&layout=compact&hide_border=true)](https://github.com/stubborn-1508)
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=stubborn-1508&style=flat-circle)
+  
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
