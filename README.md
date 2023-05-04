@@ -181,7 +181,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=stubborn-1508&theme=cobalt)](https://github.com/stubborn-1508)
 </div>
 
-----
 
  ## <p align="center">My OpenSource Contribution Graph</p>
 [![Swetank's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stubborn-1508&theme=react-light)](https://github.com/stubborn-1508)
@@ -197,7 +196,6 @@
     alt="example" />
 </p>
 
-------
 [swetank-srivastava](https://github.com/stubborn-1508)
 
 Last Edited on: 03/01/2022
