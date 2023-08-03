@@ -183,7 +183,7 @@
 
 
  ## <p align="center">My OpenSource Contribution Graph</p>
-[![Swetank's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stubborn-1508&theme=react-light)](https://github.com/stubborn-1508)
+[![Swetank's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stubborn-1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   ## Languages I Use Often (in my repos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stubborn-1508&theme=github_light&show_icons=true&layout=compact&hide_border=true)](https://github.com/stubborn-1508)
