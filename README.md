@@ -1,16 +1,14 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-
 <h1 align="center">Hi, I'm Swetank Srivastava<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full stack developer,open source enthusiast and a student from India.</h3>
 
 
- <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
  
 - 🌱 I’m currently learning **To be Extroverted**
 
-- 👯 I’m looking to collaborate on **ReactJS Framework**
+- 👯 I’m looking to collaborate on any **Open - Source contribution**
 
 - 👨‍💻 All of my projects are available [@stubborn-1508](https://github.com/stubborn-1508)
 
@@ -19,19 +17,24 @@
 ---
 
 
+<div align="center">
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture>
+</div>
+ 
+
+<p align="center">
+  <img style="width:20rem; height:auto" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611a635d7c0a3267f7827d474872f763b7162b34b1f&rid=giphy.gif&ct=g"/>
+</p>
+
+ 
+ 
+
+<p align="center">
+  <!--<img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>-->
+  <img alt="Coding" style="width:20rem; height:auto" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+</p>
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
- 
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611a635d7c0a3267f7827d474872f763b7162b34b1f&rid=giphy.gif&ct=g"/>
-</p>
-
- 
- 
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -188,14 +191,22 @@
   ## Languages I Use Often (in my repos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stubborn-1508&theme=github_light&show_icons=true&layout=compact&hide_border=true)](https://github.com/stubborn-1508)
 
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=stubborn-1508&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=stubborn-1508&style=flat-circle)
-  
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [swetank-srivastava](https://github.com/stubborn-1508)
 
-Last Edited on: 03/01/2022
+Last Edited on: 02/02/2024
